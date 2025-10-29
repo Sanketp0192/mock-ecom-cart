@@ -9,7 +9,7 @@ A **full-stack mock shopping cart app** built for the Vibe Commerce internship s
 ---
 
 ## 🎬 Demo Video
-[![Watch the Demo]([https://img.shields.io/badge/Watch-Demo_Video-blue)](YOUR_LOOM_OR_YOUTUBE_LINK_HERE](https://youtu.be/Yqrwbnhjvl8))
+[![Watch the Demo]((https://youtu.be/Yqrwbnhjvl8))
 
 ## 🚀 Features
 - Product catalog with prices, descriptions & images  
